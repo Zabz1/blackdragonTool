@@ -31,4 +31,4 @@ for i in tqdm(files):
         with open(output_directory + "\\" + filename +'.UnityFS', 'wb') as outFile:
             outFile.write(f.read())
 
-input("Done. Press anything to exit")
+input("saved results under: " + output_directory + " \nPress anything to exit")
