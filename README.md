@@ -1,6 +1,6 @@
 # blackdragonTool
 
-- install python 3.x
+- install python 3.x (make sure to add it to PATH)
 > https://www.python.org/downloads/
 
 - clone / download repository
