@@ -5,9 +5,9 @@
 
 - clone / download repository
 
-- install libraries through Terminal
+- install library through Terminal
 ```
-pip install -r requirements.txt
+pip install tqdm
 ```
 
 - place blackdragonTool.py File in
