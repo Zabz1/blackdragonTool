@@ -12,3 +12,5 @@ pip install -r requirements.txt
 
 - place blackdragonTool.py File in
 > obb\com.jdgames.dragon.googleplay\main.71.com.jdgames.dragon.googleplay.obb\assets\
+
+- run blackdragonTool.py
