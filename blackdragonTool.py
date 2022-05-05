@@ -22,8 +22,6 @@ for i in tqdm(files):
         f.seek(position) # go to the position
         filename = i[:-12] # filename without .blackdragon
         filepath = '\\'.join(i.split('\\')[:-1]) # all the subfolders
-        #print(filepath)
-        #print(type(filepath))
 
         if not os.path.exists(output_directory + "\\" + filepath):
             os.makedirs(output_directory + "\\" + filepath)
